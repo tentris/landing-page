@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+# Tentris
+
 ## Demo: Triple-store
 ?
 
@@ -18,4 +20,4 @@ Three CEL demos are as follows
 ## Demo: Knowledge Graph Embedding
 Knowledge graph embedding (KGE)....
 
-[Embeddings as Service](https://embeddings.cc/)
++ [Embeddings as Service](https://embeddings.cc/)
